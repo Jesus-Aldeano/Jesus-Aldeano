@@ -11,7 +11,7 @@
   <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
   <p align="center">
  
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-aldeano-879659263/" target="blank"><img align="center" src="tps://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedln " height="30" width="40" /></a>  
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-aldeano-879659263/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedln " height="30" width="40" /></a>  
    <a href = "Jesús: jesusaldeano0710@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
   </p>
   </p>
