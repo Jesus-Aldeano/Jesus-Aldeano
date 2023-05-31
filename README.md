@@ -1,27 +1,27 @@
-
-<h1 align="center"><b>Hi </b><img src="welcome.mp4" width="35"></h1>
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+    <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
   </p>
-<br>
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
-     </p>
-     <p align="center">
-    <img src="https://img.shields.io/badge/Age-26-blue" />
-      <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-      <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-      <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
-    </p>
-    <hr>
+  <br>
+  
+  <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+   </p>
+   <p align="center">
+  <img src="https://img.shields.io/badge/Age-26-blue" />
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+    <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+    <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  </p>
+  <hr>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
   <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
   <p align="center">
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-aldeano-879659263/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+  <a href="" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
    <a href = "Jesús: jesusaldeano0710@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
   </p>
   </p>
-
+  
+  
   
   <p align="center">
     <em>
@@ -64,4 +64,20 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
   <br><br><br><br><br>
+  
+  <hr>
+  
+  
+  <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+  
+  
+  -----
+  Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+  
+  Last Edited on: 17/04/2021
+  
+  
+  
+  
   
