@@ -17,12 +17,12 @@
 
   <p align="center">
     <em>
-      Hola, soy Jesús un <b> cursando  </b> <a href="https://utp.ac.pa/"> <b> Universidad Tecnológica de Panamá </b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+      Hola, soy Jesús un <b> estudiante de la  </b> <a href="https://utp.ac.pa/"> <b> Universidad Tecnológica de Panamá </b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
       <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-      with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+      with <b>Data science</b> y siempre buscando desafios que esten en los Datos.
     </em> 
     <br>
-    <img src="<iframe src="https://giphy.com/embed/yALcFbrKshfoY" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-cute-yALcFbrKshfoY">via GIPHY</a></p>" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+    <img src="<iframe src="" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-cute-yALcFbrKshfoY">via GIPHY</a></p>" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
   </p>
   <br><br>
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -37,6 +37,7 @@
   ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
    
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
 <p align="left">
@@ -49,6 +50,8 @@
    
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <hr>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
