@@ -6,7 +6,7 @@
        alt="snake" /></a>
 </div>
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner](C:\Users\jesus\Desktop\gi\welcome.mp4)
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
