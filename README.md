@@ -11,7 +11,7 @@
   <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
   <p align="center">
  
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-aldeano-879659263/" target="blank"><img align="center" src="https://www.shutterstock.com/image-vector/linkedin-logo-icon-symbol-american-business-2275020637" alt="linkedln " height="30" width="40" /></a>  
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-aldeano-879659263/" target="blank"><img align="center" src="linkedin" alt="linkedln " height="30" width="40" /></a>  
    <a href = "Jesús: jesusaldeano0710@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
   </p>
   </p>
@@ -23,7 +23,7 @@
       h <b>Data science</b> y siempre buscando desafios que esten en los Datos.
     </em> 
     <br>
-    <img src="<iframe src="" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-cute-yALcFbrKshfoY">via GIPHY</a></p>" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+    <img src="<iframe src="" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg">via GIPHY</a></p>" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
   </p>
   <br><br>
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
