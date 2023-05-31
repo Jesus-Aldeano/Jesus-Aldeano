@@ -5,7 +5,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 
-  [![welcome.png](https://i.postimg.cc/bwKPppxP/welcome.png)](https://postimg.cc/PCz9MGVV)
+[![welcome.png](https://i.postimg.cc/Vv5ZJbwV/welcome.png)](https://postimg.cc/bSc9Mrsx)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
   <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, </h1>
