@@ -5,8 +5,11 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<video width="320" height="240" controls>
+  <source src="https://www.canva.com/design/DAFkgZ2hP7A/p_S4SLehjC-MiKKWrIifYA/edit?utm_content=DAFkgZ2hP7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 
-![Aditya Vikram Singh Banner](C:\Users\jesus\Desktop\gi\welcome.mp4)
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
