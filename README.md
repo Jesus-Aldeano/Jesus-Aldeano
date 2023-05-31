@@ -4,11 +4,10 @@
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
-<video width="320" height="240" controls>
-  <source src="C:\Users\jesus\Desktop\gi\welcome.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+<div align="center">
+  <img  src="C:\Users\jesus\Desktop\gi\welcome.png"
+       alt="snake" /></a>
+
 
 
 <p align="left"> 
