@@ -45,7 +45,7 @@
    
 
   
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
