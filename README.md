@@ -6,7 +6,7 @@
        alt="snake" /></a>
 </div>
 <video width="320" height="240" controls>
-  <source src="https://www.canva.com/design/DAFkgZ2hP7A/p_S4SLehjC-MiKKWrIifYA/edit?utm_content=DAFkgZ2hP7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" type="video/mp4">
+  <source src="C:\Users\jesus\Desktop\gi\welcome.mp4" type="video/mp4">
   Tu navegador no soporta la etiqueta de video.
 </video>
 
