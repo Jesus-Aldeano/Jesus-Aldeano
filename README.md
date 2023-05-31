@@ -10,7 +10,7 @@
   <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, </h1>
   <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
   <p align="center">
-  <a href="jesusaldeano0710@gmail.com" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="ir " height="30" width="40" /></a>  
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-aldeano-879659263/" target="blank"><img align="center" src="[![pngwing-com.png](https://i.postimg.cc/Qtkfvcr8/pngwing-com.png)](https://postimg.cc/CB5CqB1X)" alt="linkedln " height="30" width="40" /></a>  
    <a href = "Jesús: jesusaldeano0710@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
   </p>
   </p>
