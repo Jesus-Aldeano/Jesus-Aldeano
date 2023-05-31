@@ -5,7 +5,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 <div align="center">
-  <img  src="C:\Users\jesus\Desktop\gi\welcome.png"
+  <img  src="https://drive.google.com/file/d/1LbS1tHbys-F4l58pK7lqPvEOj_edY_fV/view?usp=drive_link"
        alt="snake" /></a>
 
 
