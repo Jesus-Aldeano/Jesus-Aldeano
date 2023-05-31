@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="text-align: center;">
-  <img src=" [![welcome.png](https://i.postimg.cc/Vv5ZJbwV/welcome.png)](https://postimg.cc/bSc9Mrsx)" alt="Descripción de la imagen" style="margin-left: auto; margin-right: auto;">
+  <img src=" https://i.postimg.cc/Vv5ZJbwV/welcome.png(https://postimg.cc/bSc9Mrsx)" alt=" Hola, soy JESÚS" style="margin-left: auto; margin-right: auto;">
 </div>
 
    [![welcome.png](https://i.postimg.cc/Vv5ZJbwV/welcome.png)](https://postimg.cc/bSc9Mrsx)
