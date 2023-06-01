@@ -1,8 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-[![welcome.png](https://i.postimg.cc/2jh47wB3/welcome.png)](https://postimg.cc/fkWtwYCh)
+[![Dise-o-sin-t-tulo.png](https://i.postimg.cc/MpgsGYMw/Dise-o-sin-t-tulo.png)](https://postimg.cc/Sn7LTCf1)
   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
